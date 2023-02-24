@@ -1,5 +1,5 @@
 # PicoWSetRTC
-Set the real time clock on the raspberry pi pico w using NTP
+Set the real time clock (RTC) on the raspberry pi pico w using NTP
 
 First, connect to wifi.
 
